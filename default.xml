@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="p_name1"
+    <remote name="origin"
              fetch="./p_name2"
              review="https://android-review.googlesource.com/" />
     <default revision="master"
