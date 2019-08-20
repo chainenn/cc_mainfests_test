@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin"
-             fetch="./p_name2"
+             fetch="git@github.com:chainenn/"
              review="https://android-review.googlesource.com/" />
     <default revision="master"
              remote="origin"
              sync-j="4" />
 
-
     <project path="test" name="test"/>
+    <projedt path="aa_test1" name="aa" />	
 </manifest>
