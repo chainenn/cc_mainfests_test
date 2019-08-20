@@ -8,5 +8,6 @@
              sync-j="4" />
 
     <project path="test" name="test"/>
-    <projedt path="aa_test1" name="aa" />	
+    <projedt path="aa_test1" name="test1" />	
+    <projedt path="bb/test2_dir" name="test2" />	
 </manifest>
